@@ -1328,7 +1328,7 @@
     {"name":"1279","group":1279},
     {"name":"339","group":339},
     {"name":"773","group":773},
-    {"name":"852","group":852},
+    {"name":"852","group":852}
   ],
   "links":[
     {"source":"154","target":"155","value":49},
@@ -3872,6 +3872,6 @@
     {"source":"3","target":"825","value":8},
     {"source":"6","target":"735","value":9},
     {"source":"233","target":"668","value":10},
-    {"source":"448","target":"449","value":10},
+    {"source":"448","target":"449","value":10}
   ]
 }
